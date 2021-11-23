@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Han",
+    "home_page_url": "https://hannoeru.me/",
+    "feed_url": "https://hannoeru.me/feed.json",
+    "description": "Han' Blog",
+    "icon": "https://hannoeru.me/avatar.png",
+    "author": {
+        "name": "Han",
+        "url": "https://hannoeru.me"
+    },
+    "items": []
+}

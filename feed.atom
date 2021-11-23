@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hannoeru.me/</id>
+    <title>Han</title>
+    <updated>2021-11-23T13:57:26.186Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Han</name>
+        <email>me@hanlee.co</email>
+        <uri>https://hannoeru.me</uri>
+    </author>
+    <link rel="alternate" href="https://hannoeru.me/"/>
+    <link rel="self" href="https://hannoeru.me/feed.atom"/>
+    <subtitle>Han' Blog</subtitle>
+    <logo>https://hannoeru.me/avatar.png</logo>
+    <icon>https://hannoeru.me/logo.png</icon>
+    <rights>CC BY-NC-SA 4.0 2021 © Han</rights>
+</feed>
