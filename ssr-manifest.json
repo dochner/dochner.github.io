@@ -173,57 +173,57 @@
     "/assets/vendor.b4370b50.js"
   ],
   "pages/bookmarks.md": [
-    "/assets/bookmarks.335bc032.js"
+    "/assets/bookmarks.04d9e9f1.js"
   ],
   "~icons/icon-park-outline/close-small": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "src/components/TagLabel.vue": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/carbon/checkmark": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/carbon/link": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/ic/round-mail": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/uil/line": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/carbon/logo-twitter": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "~icons/carbon/logo-facebook": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "src/constants.ts": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "src/components/ShareButtons.vue": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "src/components/TagSelectList.vue": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "src/components/Post.vue": [
-    "/assets/Post.b214c43c.js"
+    "/assets/Post.2505a38b.js"
   ],
   "../../../../avatar.png": [
-    "/assets/index.0f7383d4.js"
+    "/assets/index.20da50e2.js"
   ],
   "src/components/AboutMe.vue": [
-    "/assets/index.0f7383d4.js"
+    "/assets/index.20da50e2.js"
   ],
   "pages/index.md": [
-    "/assets/index.0f7383d4.js"
+    "/assets/index.20da50e2.js"
   ],
   "src/components/ListPosts.vue": [
-    "/assets/index.60d61b17.js"
+    "/assets/index.9f96d5f1.js"
   ],
   "posts/index.md": [
-    "/assets/index.60d61b17.js"
+    "/assets/index.9f96d5f1.js"
   ]
 }
